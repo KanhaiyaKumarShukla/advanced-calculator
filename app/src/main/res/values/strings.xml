@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Advanced Calculator</string>
+    <string name="arithmaticStr">Arithmatic</string>
+    <string name="lcmStr">LCM</string>
+    <string name="hcfStr">HCF</string>
+    <string name="unitConversionStr">UNIT CONVERSION</string>
+    <string name="trignonmetryStr">Tignometry</string>
+    <string name="power">^</string>
+</resources>
